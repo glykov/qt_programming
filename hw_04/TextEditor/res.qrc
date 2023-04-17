@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/help">
+        <file>help.txt</file>
+    </qresource>
+    <qresource prefix="/tr">
+        <file>QtLanguage_en.qm</file>
+    </qresource>
+</RCC>
